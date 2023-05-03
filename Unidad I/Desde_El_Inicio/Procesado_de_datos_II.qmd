@@ -140,7 +140,7 @@ library(ggplot2)# Graficos
 library(knitr)
 library(ggpubr)
 library(car)
-
+library(xlsx)
 ```
 
 1.  Antes, de leer los datos, necesitamos saber que extensión son para proceder con la lectura, es decir, si son .csv, .txt, u otro formato.
